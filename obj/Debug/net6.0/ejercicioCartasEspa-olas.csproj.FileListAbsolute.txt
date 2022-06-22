@@ -1,0 +1,15 @@
+F:\portfolio\c#politecnico\ejercicio14BCartasEspañolas\ejercicioCartasEspa-olas\bin\Debug\net6.0\ejercicioCartasEspa-olas.exe
+F:\portfolio\c#politecnico\ejercicio14BCartasEspañolas\ejercicioCartasEspa-olas\bin\Debug\net6.0\ejercicioCartasEspa-olas.deps.json
+F:\portfolio\c#politecnico\ejercicio14BCartasEspañolas\ejercicioCartasEspa-olas\bin\Debug\net6.0\ejercicioCartasEspa-olas.runtimeconfig.json
+F:\portfolio\c#politecnico\ejercicio14BCartasEspañolas\ejercicioCartasEspa-olas\bin\Debug\net6.0\ejercicioCartasEspa-olas.dll
+F:\portfolio\c#politecnico\ejercicio14BCartasEspañolas\ejercicioCartasEspa-olas\bin\Debug\net6.0\ref\ejercicioCartasEspa-olas.dll
+F:\portfolio\c#politecnico\ejercicio14BCartasEspañolas\ejercicioCartasEspa-olas\bin\Debug\net6.0\ejercicioCartasEspa-olas.pdb
+F:\portfolio\c#politecnico\ejercicio14BCartasEspañolas\ejercicioCartasEspa-olas\obj\Debug\net6.0\ejercicioCartasEspa-olas.csproj.AssemblyReference.cache
+F:\portfolio\c#politecnico\ejercicio14BCartasEspañolas\ejercicioCartasEspa-olas\obj\Debug\net6.0\ejercicioCartasEspa-olas.GeneratedMSBuildEditorConfig.editorconfig
+F:\portfolio\c#politecnico\ejercicio14BCartasEspañolas\ejercicioCartasEspa-olas\obj\Debug\net6.0\ejercicioCartasEspa-olas.AssemblyInfoInputs.cache
+F:\portfolio\c#politecnico\ejercicio14BCartasEspañolas\ejercicioCartasEspa-olas\obj\Debug\net6.0\ejercicioCartasEspa-olas.AssemblyInfo.cs
+F:\portfolio\c#politecnico\ejercicio14BCartasEspañolas\ejercicioCartasEspa-olas\obj\Debug\net6.0\ejercicioCartasEspa-olas.csproj.CoreCompileInputs.cache
+F:\portfolio\c#politecnico\ejercicio14BCartasEspañolas\ejercicioCartasEspa-olas\obj\Debug\net6.0\ejercicioCartasEspa-olas.dll
+F:\portfolio\c#politecnico\ejercicio14BCartasEspañolas\ejercicioCartasEspa-olas\obj\Debug\net6.0\ref\ejercicioCartasEspa-olas.dll
+F:\portfolio\c#politecnico\ejercicio14BCartasEspañolas\ejercicioCartasEspa-olas\obj\Debug\net6.0\ejercicioCartasEspa-olas.pdb
+F:\portfolio\c#politecnico\ejercicio14BCartasEspañolas\ejercicioCartasEspa-olas\obj\Debug\net6.0\ejercicioCartasEspa-olas.genruntimeconfig.cache
